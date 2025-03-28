@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_contact">
+        <item>Sắp xếp theo tên A-Z</item>
+        <item>Sắp xếp theo tên Z-A</item>
+        <item>Sắp xếp theo chức vụ A-Z</item>
+        <item>Sắp xếp theo chức vụ Z-A</item>
+    </string-array>
+</resources>

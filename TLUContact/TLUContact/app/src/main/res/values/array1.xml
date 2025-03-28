@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_department">
+        <item>Sắp xếp theo tên A-Z</item>
+        <item>Sắp xếp theo tên Z-A</item>
+    </string-array>
+</resources>

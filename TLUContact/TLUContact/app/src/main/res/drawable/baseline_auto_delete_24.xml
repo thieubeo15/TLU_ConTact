@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#CE0606">
+
+    <!-- Nắp thùng rác -->
+    <path
+        android:fillColor="#CE0606"
+        android:pathData="M3,6h18v2H3z"/>
+
+    <!-- Thân thùng rác -->
+    <path
+        android:fillColor="#CE0606"
+        android:pathData="M6,8v12c0,1.1 0.9,2 2,2h8c1.1,0 2,-0.9 2,-2V8H6z"/>
+
+    <!-- Hai đường gạch tượng trưng rác bị xóa -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M9,10h2v8H9z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13,10h2v8h-2z"/>
+
+</vector>
